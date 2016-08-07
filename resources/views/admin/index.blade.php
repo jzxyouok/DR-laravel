@@ -1,0 +1,1 @@
+@extands('layout.adminindex');

@@ -1,0 +1,16 @@
+#a li 
+{ float:left;
+height: 20px;
+padding: 0 10px;
+display: block;
+font-size: 12px;
+line-height: 20px;
+text-align: center;
+cursor: pointer;
+outline: medium none;
+padding:0 10px;
+text-decoration:none;
+cursor:pointer;
+float:left;
+display:inline-block;
+}
